@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @csbowden21
-- 👀 I’m interested in learning React/Vue to help me better understand the developers I work with
+- 👋 Hi, I’m @csbowden21 an Interaction Designer
+- 👀 I’m building a new side project while learning React/Next
 - 🌱 I’m currently learning React, Portuguese, and Accessiblity Design
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
